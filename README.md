@@ -6,8 +6,6 @@
 
 ## Table of contents
 
----
-
 - Introduction
 - Built with
 - Getting started
@@ -16,8 +14,6 @@
 - Contact
 
 ## Introduction
-
----
 
 SortManager is the product of the first two weeks of my training at [Sparta Global](https://www.spartaglobal.com/), in the Java Dev team. It encompasses concepts such as:
 
@@ -53,13 +49,9 @@ Another thing that is explored is how each algorithm performs next to each other
 
 ## Built with
 
----
-
 The project was built entirely using [IntelliJ](https://www.jetbrains.com/idea/). 
 
 ## Getting started
-
----
 
 You need to have downloaded IntelliJ on your computer, either the [community version](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC) or the [ultimate](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows) one.
 
@@ -73,13 +65,9 @@ Once you've done that, all you have to do is open up the project in the IntelliJ
 
 ## Usage
 
----
-
 You can use the system to either learn from the design and/or coding or to sort custom and pre-existing ones. 
 
 ## Contributions
-
----
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -92,10 +80,8 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
----
+**Name**: Svilen Petrov 
 
-Name: Svilen Petrov 
+**Website**: [svilenpetrov.com](http://svilenpetrov.com) 
 
-Website: [svilenpetrov.com](http://svilenpetrov.com) 
-
-Email: svilen.petrov97@gmail.com
+**Email**: svilen.petrov97@gmail.com
