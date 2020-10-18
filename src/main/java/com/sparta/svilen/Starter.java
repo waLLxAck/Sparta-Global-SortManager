@@ -13,6 +13,7 @@ public class Starter {
         SortManager sortManager = new SortManager();
         Sorter sorter = sortManager.getAlgorithm();
         sorter.start(chooseArray());
+
     }
 
     private static int[] chooseArray() {
