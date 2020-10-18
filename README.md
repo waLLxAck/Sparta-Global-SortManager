@@ -1,9 +1,8 @@
-# SortManager README.md
+![SortManager-transparent](https://user-images.githubusercontent.com/15944458/96385054-3b6b1f80-1189-11eb-9469-35e9bf33a148.png)
 
-Created: Oct 18, 2020 8:40 PM
-Updated: Oct 18, 2020 9:27 PM
+*Created: Oct 18, 2020 8:40 PM*
 
-![SortManager-logo](SortManager%20README%20md%20f71e54e8c44c4a54a7a2d56d7bfa41a7/SortManager-transparent.png)
+*Updated: Oct 18, 2020 9:27 PM*
 
 ## Table of contents
 
