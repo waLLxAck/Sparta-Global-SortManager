@@ -6,12 +6,23 @@
 
 ## Table of contents
 
-- Introduction
-- Built with
-- Getting started
-- Usage
-- Contributions
-- Contact
+- [Requirements](#requirements)
+- [Introduction](#introduction)
+- [Built with](#built-with)
+- [Getting started](#getting-started)
+- [Usage](#usage)
+- [Future Work](#future-work)
+
+## Requirements
+
+- This project would demonstrate sorting of arrays using different algorithms.  
+- It should be a MAVEN project. 
+- User should be given the option to select which algorithm they want to choose for the sorting of their arrays. 
+- You have the flexibility to randomly generate the array or take it from the user (developer preference).
+- Different packages need to be used.
+- Design Patterns - Factory - need to create a class which basically creates the sort at runtime as per user requirements. 
+- You should use logger to debug/trace your code and also adding the exceptions in that. 
+- Make sure to adhere to all SOLID principles and good coding conventions.
 
 ## Introduction
 
@@ -65,23 +76,9 @@ Once you've done that, all you have to do is open up the project in the IntelliJ
 
 ## Usage
 
-You can use the system to either learn from the design and/or coding or to sort custom and pre-existing ones. 
+You can use the system to either learn from the design and/or coding conventions/implementation or to sort custom and randomly generated array of numbers. 
 
-## Contributions
+# Future work
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your own branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Adding some Amazing Feature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-6. Wait for me to review and merge :)
-
-## Contact
-
-**Name**: Svilen Petrov 
-
-**Website**: [svilenpetrov.com](http://svilenpetrov.com) 
-
-**Email**: svilen.petrov97@gmail.com
+- Add more sorting algorithms
+- Add a user interface
