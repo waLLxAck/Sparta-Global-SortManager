@@ -1,9 +1,11 @@
 package com.sparta.svilen;
 
-import com.sparta.svilen.Interfaces.Sorter;
-import com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl;
-import com.sparta.svilen.SortingAlgorithms.BubbleSort;
-import com.sparta.svilen.SortingAlgorithms.MergeSort;
+import com.sparta.svilen.interfaces.Sorter;
+import com.sparta.svilen.sorting_algorithms.BinaryTreeImpl;
+import com.sparta.svilen.sorting_algorithms.BubbleSort;
+import com.sparta.svilen.sorting_algorithms.MergeSort;
+import com.sparta.svilen.utility.InputCollector;
+import com.sparta.svilen.utility.Printer;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

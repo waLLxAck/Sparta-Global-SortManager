@@ -1,6 +1,7 @@
 package com.sparta.svilen;
 
-import com.sparta.svilen.SortingAlgorithms.BubbleSort;
+import com.sparta.svilen.sorting_algorithms.BubbleSort;
+import com.sparta.svilen.utility.InputCollector;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;

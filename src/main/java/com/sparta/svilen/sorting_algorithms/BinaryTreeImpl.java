@@ -1,10 +1,10 @@
-package com.sparta.svilen.SortingAlgorithms;
+package com.sparta.svilen.sorting_algorithms;
 
-import com.sparta.svilen.Exceptions.ChildNotFoundException;
-import com.sparta.svilen.InputCollector;
-import com.sparta.svilen.Interfaces.BinaryTree;
-import com.sparta.svilen.Interfaces.Sorter;
-import com.sparta.svilen.Printer;
+import com.sparta.svilen.exceptions.ChildNotFoundException;
+import com.sparta.svilen.utility.InputCollector;
+import com.sparta.svilen.interfaces.BinaryTree;
+import com.sparta.svilen.interfaces.Sorter;
+import com.sparta.svilen.utility.Printer;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -35,6 +35,8 @@ public class BinaryTreeImpl implements BinaryTree, Sorter {
     @Override
     public void start(int[] arrayOfNumbers) {
         addElements(arrayOfNumbers);
+        Printer.print(Arrays.toString(arrayOfNumbers));
+        Printer.printBinaryTreeDuplicatesWarning();
         Printer.print(Arrays.toString(getSortedTreeAsc()));
     }
 

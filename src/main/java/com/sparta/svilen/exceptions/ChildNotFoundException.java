@@ -1,7 +1,7 @@
-package com.sparta.svilen.Exceptions;
+package com.sparta.svilen.exceptions;
 
-import com.sparta.svilen.Logs.Log;
-import com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl;
+import com.sparta.svilen.utility.Log;
+import com.sparta.svilen.sorting_algorithms.BinaryTreeImpl;
 
 /**
  * ChildNotFoundException.java - a custom exception, thrown when a child node of the binary tree is non-existent.

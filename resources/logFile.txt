@@ -2,161 +2,161 @@
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getLeftChild(BinaryTreeImpl.java:94)
-com.sparta.svilen.Printer.printLeftChild(Printer.java:64)
+com.sparta.svilen.utility.Printer.printLeftChild(Printer.java:64)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:147)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.379 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getRightChild(BinaryTreeImpl.java:106)
-com.sparta.svilen.Printer.printRightChild(Printer.java:60)
+com.sparta.svilen.utility.Printer.printRightChild(Printer.java:60)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:151)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.379 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getLeftChild(BinaryTreeImpl.java:94)
-com.sparta.svilen.Printer.printLeftChild(Printer.java:64)
+com.sparta.svilen.utility.Printer.printLeftChild(Printer.java:64)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:147)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.380 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getRightChild(BinaryTreeImpl.java:106)
-com.sparta.svilen.Printer.printRightChild(Printer.java:60)
+com.sparta.svilen.utility.Printer.printRightChild(Printer.java:60)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:151)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.380 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getLeftChild(BinaryTreeImpl.java:94)
-com.sparta.svilen.Printer.printLeftChild(Printer.java:64)
+com.sparta.svilen.utility.Printer.printLeftChild(Printer.java:64)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:147)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.380 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getRightChild(BinaryTreeImpl.java:106)
-com.sparta.svilen.Printer.printRightChild(Printer.java:60)
+com.sparta.svilen.utility.Printer.printRightChild(Printer.java:60)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:151)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.380 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getLeftChild(BinaryTreeImpl.java:94)
-com.sparta.svilen.Printer.printLeftChild(Printer.java:64)
+com.sparta.svilen.utility.Printer.printLeftChild(Printer.java:64)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:147)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.380 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getRightChild(BinaryTreeImpl.java:106)
-com.sparta.svilen.Printer.printRightChild(Printer.java:60)
+com.sparta.svilen.utility.Printer.printRightChild(Printer.java:60)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:151)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.380 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getLeftChild(BinaryTreeImpl.java:94)
-com.sparta.svilen.Printer.printLeftChild(Printer.java:64)
+com.sparta.svilen.utility.Printer.printLeftChild(Printer.java:64)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:147)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.380 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getRightChild(BinaryTreeImpl.java:106)
-com.sparta.svilen.Printer.printRightChild(Printer.java:60)
+com.sparta.svilen.utility.Printer.printRightChild(Printer.java:60)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:151)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.381 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getLeftChild(BinaryTreeImpl.java:94)
-com.sparta.svilen.Printer.printLeftChild(Printer.java:64)
+com.sparta.svilen.utility.Printer.printLeftChild(Printer.java:64)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:147)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.381 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getRightChild(BinaryTreeImpl.java:106)
-com.sparta.svilen.Printer.printRightChild(Printer.java:60)
+com.sparta.svilen.utility.Printer.printRightChild(Printer.java:60)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:151)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.381 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getLeftChild(BinaryTreeImpl.java:94)
-com.sparta.svilen.Printer.printLeftChild(Printer.java:64)
+com.sparta.svilen.utility.Printer.printLeftChild(Printer.java:64)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:147)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.381 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getRightChild(BinaryTreeImpl.java:106)
-com.sparta.svilen.Printer.printRightChild(Printer.java:60)
+com.sparta.svilen.utility.Printer.printRightChild(Printer.java:60)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:151)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.381 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getLeftChild(BinaryTreeImpl.java:94)
-com.sparta.svilen.Printer.printLeftChild(Printer.java:64)
+com.sparta.svilen.utility.Printer.printLeftChild(Printer.java:64)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:147)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.381 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getRightChild(BinaryTreeImpl.java:106)
-com.sparta.svilen.Printer.printRightChild(Printer.java:60)
+com.sparta.svilen.utility.Printer.printRightChild(Printer.java:60)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:151)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.381 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getLeftChild(BinaryTreeImpl.java:94)
-com.sparta.svilen.Printer.printLeftChild(Printer.java:64)
+com.sparta.svilen.utility.Printer.printLeftChild(Printer.java:64)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:147)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 
 [ERROR] 2020-10-18 11:59:10.382 [main] Starter - 
 Message: No such child.
 Stack:
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.getRightChild(BinaryTreeImpl.java:106)
-com.sparta.svilen.Printer.printRightChild(Printer.java:60)
+com.sparta.svilen.utility.Printer.printRightChild(Printer.java:60)
 com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl.displayAllChildNodes(BinaryTreeImpl.java:151)
-com.sparta.svilen.Starter.start(Starter.java:18)
+com.sparta.svilen.start.Starter.start(Starter.java:18)
 com.sparta.svilen.Main.main(Main.java:6)
 

@@ -1,12 +1,13 @@
-package com.sparta.svilen.Exceptions;
+package com.sparta.svilen.exceptions;
 
-import com.sparta.svilen.Logs.Log;
+import com.sparta.svilen.utility.Log;
+import com.sparta.svilen.utility.InputCollector;
 
 /**
  * EmptyArrayException.java - a custom exception, thrown when an array is left empty during initialisation.
  * @author  Svilen Petrov
  * @version 1.0
- * @see com.sparta.svilen.InputCollector
+ * @see InputCollector
  */
 
 public class EmptyArrayException extends Exception {

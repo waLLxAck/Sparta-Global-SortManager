@@ -1,7 +1,8 @@
-package com.sparta.svilen.SortingAlgorithms;
+package com.sparta.svilen.sorting_algorithms;
 
-import com.sparta.svilen.Interfaces.Sorter;
-import com.sparta.svilen.Printer;
+import com.sparta.svilen.interfaces.Sorter;
+import com.sparta.svilen.factory.SortManager;
+import com.sparta.svilen.utility.Printer;
 
 import java.util.Arrays;
 
@@ -9,7 +10,7 @@ import java.util.Arrays;
  * MergeSort.java - an implementation of the MergeSort algorithm.
  * @author  Svilen Petrov
  * @version 1.0
- * @see com.sparta.svilen.SortManager
+ * @see SortManager
  */
 
 public class MergeSort implements Sorter {

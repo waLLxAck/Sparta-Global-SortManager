@@ -1,10 +1,12 @@
-package com.sparta.svilen.Interfaces;
+package com.sparta.svilen.interfaces;
+
+import com.sparta.svilen.sorting_algorithms.MergeSort;
 
 /**
  * Sorter.java - an interface for all classes with a sorting function.
  * @author  Svilen Petrov
  * @version 1.0
- * @see com.sparta.svilen.SortingAlgorithms.MergeSort
+ * @see MergeSort
  */
 
 public interface Sorter {

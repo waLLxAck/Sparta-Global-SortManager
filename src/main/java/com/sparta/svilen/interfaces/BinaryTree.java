@@ -1,6 +1,6 @@
-package com.sparta.svilen.Interfaces;
+package com.sparta.svilen.interfaces;
 
-import com.sparta.svilen.Exceptions.ChildNotFoundException;
+import com.sparta.svilen.exceptions.ChildNotFoundException;
 
 /**
  * Created by keith.dauris on 26/06/2017.

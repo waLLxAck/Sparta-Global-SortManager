@@ -1,6 +1,6 @@
-package com.sparta.svilen.Logs;
+package com.sparta.svilen.utility;
 
-import com.sparta.svilen.Starter;
+import com.sparta.svilen.start.Starter;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -9,7 +9,7 @@ import org.apache.logging.log4j.Logger;
  * Log.java - a class for logging system activities.
  * @author  Svilen Petrov
  * @version 1.0
- * @see com.sparta.svilen.Exceptions.ChildNotFoundException
+ * @see com.sparta.svilen.exceptions.ChildNotFoundException
  */
 
 public class Log {

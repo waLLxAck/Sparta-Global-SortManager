@@ -1,7 +1,7 @@
-package com.sparta.svilen;
+package com.sparta.svilen.utility;
 
-import com.sparta.svilen.Exceptions.ChildNotFoundException;
-import com.sparta.svilen.SortingAlgorithms.BinaryTreeImpl;
+import com.sparta.svilen.exceptions.ChildNotFoundException;
+import com.sparta.svilen.sorting_algorithms.BinaryTreeImpl;
 
 import java.util.Arrays;
 
@@ -86,5 +86,27 @@ public class Printer {
 
     public static void printTimeElapsed(String sorterName, float elapsedTime) {
         System.out.println(sorterName + " took a total of " +elapsedTime/1000000 + " ms.");
+    }
+
+    public static void displayAlgorithmChoice(){
+        System.out.println("--------------------------------------------------------------");
+        System.out.println("Please choose an algorithm to run! (Options listed below)");
+        System.out.print("--------------------------------------------------------------");
+        System.out.println(FileRetriever.getFileString());
+        System.out.println("--------------------------------------------------------------");
+    }
+
+    public static void displayChoicePrompt() {
+        System.out.print("Algorithm name: ");
+    }
+
+    public static void displayError() {
+        System.err.println("Invalid input.");
+    }
+
+    public static void printBinaryTreeDuplicatesWarning() {
+        System.out.println("--------------------------------------------------------------");
+        System.out.println("    Warning! All duplicates will be removed from the list.");
+        System.out.println("--------------------------------------------------------------");
     }
 }

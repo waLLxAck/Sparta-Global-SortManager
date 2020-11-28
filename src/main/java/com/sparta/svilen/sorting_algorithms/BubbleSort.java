@@ -1,14 +1,15 @@
-package com.sparta.svilen.SortingAlgorithms;
+package com.sparta.svilen.sorting_algorithms;
 
-import com.sparta.svilen.Exceptions.EmptyArrayException;
-import com.sparta.svilen.Printer;
-import com.sparta.svilen.Interfaces.Sorter;
+import com.sparta.svilen.exceptions.EmptyArrayException;
+import com.sparta.svilen.factory.SortManager;
+import com.sparta.svilen.utility.Printer;
+import com.sparta.svilen.interfaces.Sorter;
 
 /**
  * BubbleSort.java - an implementation of the BubbleSort algorithm.
  * @author  Svilen Petrov
  * @version 1.0
- * @see com.sparta.svilen.SortManager
+ * @see SortManager
  */
 
 public class BubbleSort implements Sorter {
