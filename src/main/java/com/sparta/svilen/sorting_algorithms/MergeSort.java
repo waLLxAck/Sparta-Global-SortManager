@@ -16,8 +16,9 @@ import java.util.Arrays;
 public class MergeSort implements Sorter {
     @Override
     public void start(int[] arrayOfNumbers) {
+        Printer.printArrayBeforeSort(arrayOfNumbers);
         mergeSort(arrayOfNumbers);
-        Printer.print(Arrays.toString(arrayOfNumbers));
+        Printer.printArrayAfterSort(arrayOfNumbers);
     }
 
     public static void mergeSort(int[] arrayOfNumbers) {
