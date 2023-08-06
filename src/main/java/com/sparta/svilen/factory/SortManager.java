@@ -11,6 +11,7 @@ import java.lang.reflect.InvocationTargetException;
  */
 
 public class SortManager {
+
     public Sorter getAlgorithm(String choice) {
         try {
             return (Sorter) Thread
